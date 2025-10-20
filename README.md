@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td>
+<td style="width:65%; vertical-align:top;">
 
 <h1>👋 ¡Hola! Soy Diego Ganoza</h1>
 
@@ -18,7 +18,7 @@ Apasionado por crear <strong>experiencias web intuitivas</strong>.<br>
 **Game Dev:** Unity (y pronto Godot)  
 
 </td>
-<td align="center">
+<td style="width:35%; text-align:center; vertical-align:top;">
   <img src="https://media4.giphy.com/media/jv28KhDES6qtTsJmOt/giphy.gif" width="220" alt="Coding gif">
 </td>
 </tr>
