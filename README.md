@@ -13,23 +13,3 @@ Apasionado por crear **experiencias web intuitivas**.
 **Backend:** Python, Flask, REST APIs  
 **DB & Servicios:** Firebase, SQLAlchemy  
 **Game Dev:** Unity (y pronto Godot)  
-
----
-
-## 🚀 Ahora mismo
-🔹 Aprendiendo **TypeScript** y mejorando mis proyectos con **Firebase**.  
-🔹 Desarrollando un nuevo proyecto web personal.
-
----
-
-## 🎮 Proyecto destacado
-🕹 **[CuatroK](https://github.com/DiegoGanoza/CuatroK)** – Proyecto final del curso con React + Flask.  
-
----
-
-## 📫 Contacto
-[💼 LinkedIn](https://www.linkedin.com/in/diegou-ganoza)
-
----
-
-⭐ *Gracias por pasar por aquí.*
