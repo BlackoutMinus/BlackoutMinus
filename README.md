@@ -12,17 +12,18 @@ Disfruto transformar ideas en proyectos funcionales, manteniendo siempre el equi
 
 ## 🧠 Tecnologías y herramientas
 
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS  
-- **Backend:** Python, Flask, Node.js, REST APIs  
-- **Base de datos y servicios:** Firebase, MySQL  
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Bootstrap  
+- **Backend:** Python, Flask, REST APIs  
+- **Base de datos y servicios:** Firebase, SQLAlchemy
 - **Control de versiones:** Git & GitHub  
-- **Otras áreas:** Desarrollo de videojuegos (Unity, Unreal Engine)
+- **Otras áreas:** Desarrollo de videojuegos (Unity, proximamente Godot)
 
 ---
 
-## 🚀 Actualmente aprendiendo
+## 🚀 Actualmente aplicando en un nuevo proyecto...
 
-- TypeScript 🟦  
+- TypeScript 🟦
+- Tailwind
 - Integración de Firebase en proyectos reales  
 
 ---
@@ -30,7 +31,7 @@ Disfruto transformar ideas en proyectos funcionales, manteniendo siempre el equi
 ## 💼 Proyecto destacado
 
 ### 🕹 [CuatroK](https://github.com/DiegoGanoza/CuatroK)
-Proyecto final del curso — una experiencia web que combina lógica, interactividad y diseño moderno.  
+Mi proyectazo final del curso — una experiencia web que combina lógica, interactividad y diseño moderno.  
 Desarrollado con **React**, **Python** y **Flask**, aplicando principios de arquitectura y buenas prácticas.
 
 ---
@@ -49,4 +50,4 @@ Mi objetivo es seguir creciendo como desarrollador full stack y colaborar en pro
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Siempre aprendiendo, siempre creando.*  
+⭐ *Gracias por visitar mi perfil.*  
